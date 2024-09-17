@@ -10,8 +10,8 @@ I am a passionate **frontend developer** with experience in building interactive
 - **Environments:** Frontend development and CMS integration
 
 ## Projects
-- [Project 1]( https://github.com/ALI-cmd-front-developer/beautiful-form ): Beautiful Form
-- [Project 2]( https://github.com/ALI-cmd-front-developer/Fylo ): Simple Project
+- [Form Project]( https://github.com/ALI-cmd-front-developer/beautiful-form ): Beautiful Form
+- [Fylo Project]( https://github.com/ALI-cmd-front-developer/Fylo ): Simple Project
 
 ## Contact
 - **GitHub:** [Ali's GitHub](https://github.com/ALI-cmd-front-developer)
@@ -31,8 +31,8 @@ I am a passionate **frontend developer** with experience in building interactive
 - **البيئات:** تطوير واجهات أمامية وتكامل مع أنظمة إدارة المحتوى
 
 ## المشاريع
-- [اسم المشروع 1](https://github.com/ALI-cmd-front-developer/beautiful-form): واجهة تسجيل بسيطة
-- [اسم المشروع 2]( https://github.com/ALI-cmd-front-developer/Fylo ): مشروع بسيط
+- [واجهة تسجيل دخول 1](https://github.com/ALI-cmd-front-developer/beautiful-form): واجهة تسجيل بسيطة
+- [مشروع Fylo]( https://github.com/ALI-cmd-front-developer/Fylo ): مشروع بسيط
 
 ## الاتصال
 - **GitHub:** [GitHub علي](https://github.com/ALI-cmd-front-developer)
